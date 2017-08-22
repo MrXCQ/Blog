@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mrxcq.github.io/Blog/sitemap.xml 
